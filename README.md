@@ -51,8 +51,6 @@ I'm a passionate **Full-Stack Developer** with a knack for building scalable, us
 
 Feel free to reach out if you want to collaborate on something cool or just chat about tech and life in general!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirfaisalz/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/amrfslz)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirfaisalzam@gmail.com)
 
 ⭐️ From [Amir Faisal Zamzami](https://github.com/amirfaisalz)
